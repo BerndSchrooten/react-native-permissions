@@ -152,6 +152,7 @@ The current supported permissions are:
 |                    | Type                | iOS | Android |
 | ------------------ | ------------------- | --- | ------- |
 | Location           | `location`          | ✔️  | ✔       |
+| Coarse Location    | `coarseLocation`    | ❌  | ✔       |
 | Camera             | `camera`            | ✔️  | ✔       |
 | Microphone         | `microphone`        | ✔️  | ✔       |
 | Photos             | `photo`             | ✔️  | ✔       |
